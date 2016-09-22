@@ -1,4 +1,9 @@
-# Ng2Routes
+# Playing around showing localized paths
+
+Very simplistic demo, with just one level of routes, might spend some more time on making
+it more useful ;)
+
+## Ng2Routes
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.15.
 
