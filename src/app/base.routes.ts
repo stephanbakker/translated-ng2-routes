@@ -14,5 +14,9 @@ export const baseRoutes = [
     {
         path: 'profile',
         component: ProfileComponent
+    },
+    {
+        path: '**',
+        redirectTo: ''
     }
 ];
